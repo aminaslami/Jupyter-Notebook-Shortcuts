@@ -7,36 +7,60 @@ Jupyter Notebook is a powerful tool for interactive computing, data analysis, an
 
 ### Navigation Shortcuts:
 Esc + H: Display keyboard shortcuts.
+
 Esc: Enter command mode.
+
 Enter: Enter edit mode.
+
 Arrow Keys: Navigate cells.
+
 Shift + Enter: Run the current cell and select the next cell.
+
 Ctrl + Enter: Run selected cells.
+
 A: Insert a new cell above the current cell.
+
 B: Insert a new cell below the current cell.
+
 D, D (press D twice): Delete the current cell.
+
 Z: Undo cell deletion.
+
 
 ### Cell Editing Shortcuts:
 Tab: Code completion or indent.
-Shift + Tab: Tooltip with docstring.
-Ctrl + /: Comment/uncomment selected lines.
-Ctrl + Shift + -: Split the cell at the cursor.
-Ctrl + Shift + -: Merge selected cells.
-Ctrl + Shift + P: Open the command palette.
 
+Shift + Tab: Tooltip with docstring.
+
+Ctrl + /: Comment/uncomment selected lines.
+
+Ctrl + Shift + -: Split the cell at the cursor.
+
+Ctrl + Shift + -: Merge selected cells.
+
+Ctrl + Shift + P: Open the command palette.
 
 ### Magic Commands:
 %: Line magic.
+
 %%: Cell magic.
+
 %time: Measure the execution time of a Python statement or expression.
-%timeit: Run a statement multiple times to get the average execution time.
+
+%timeit: Run a statement multiple times to get the average execution time
+
 %matplotlib inline: Display plots inline within the notebook.
+
 %load_ext autoreload: Automatically reload modules before executing code.
-Other Useful Tips:
+
+
+### Other Useful Tips:
 Kernel Restart & Clear Output: Kernel -> Restart & Clear Output.
+
 Convert to Markdown: Cell -> Cell Type -> Markdown.
+
 Save the Notebook: Ctrl + S.
+
 Restart the Kernel: Kernel -> Restart.
 
 
