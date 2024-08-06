@@ -70,6 +70,30 @@ Lists: Use * or — for bullet points, and 1. for numbered lists.
 Code Blocks: Indent code with four spaces or use triple backticks.
 Links: Text for hyperlinks.
 
+-----------------------------------------------------------------------------------------
+Command Mode (press Esc to enable)
+Enter: Switch to Edit mode
+Shift + Enter: Run the current cell, select below
+Ctrl + Enter: Run the current cell
+Alt + Enter: Run the current cell, insert below
+Y: Change the cell to code
+M: Change the cell to markdown
+R: Change the cell to raw
+1: Change the cell to heading 1
+2: Change the cell to heading 2
+3: Change the cell to heading 3
+4: Change the cell to heading 4
+5: Change the cell to heading 5
+6: Change the cell to heading 6
+A: Insert cell above
+B: Insert cell below
+X: Cut selected cell
+C: Copy selected cell
+Shift + V: Paste cell above
+V: Paste cell below
+D, D: Delete selected cell
+Z: Undo cell deletion
+Shift + M: Merge selected cells, or current cell with cell below if only one cell is selected
 
 Thanks:
 
