@@ -72,11 +72,17 @@ Links: Text for hyperlinks.
 
 -----------------------------------------------------------------------------------------
 Command Mode (press Esc to enable)
+
 Enter: Switch to Edit mode
+
 Shift + Enter: Run the current cell, select below
+
 Ctrl + Enter: Run the current cell
+
 Alt + Enter: Run the current cell, insert below
+
 Y: Change the cell to code
+
 M: Change the cell to markdown
 R: Change the cell to raw
 1: Change the cell to heading 1
