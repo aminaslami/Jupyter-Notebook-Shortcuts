@@ -88,6 +88,7 @@ M: Change the cell to markdown
 R: Change the cell to raw
 
 1: Change the cell to heading 1
+
 2: Change the cell to heading 2
 3: Change the cell to heading 3
 4: Change the cell to heading 4
