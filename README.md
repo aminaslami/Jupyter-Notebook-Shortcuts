@@ -84,6 +84,7 @@ Alt + Enter: Run the current cell, insert below
 Y: Change the cell to code
 
 M: Change the cell to markdown
+
 R: Change the cell to raw
 1: Change the cell to heading 1
 2: Change the cell to heading 2
