@@ -102,6 +102,7 @@ R: Change the cell to raw
 A: Insert cell above
 
 B: Insert cell below
+
 X: Cut selected cell
 C: Copy selected cell
 Shift + V: Paste cell above
