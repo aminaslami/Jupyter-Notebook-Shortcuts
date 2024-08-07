@@ -66,12 +66,13 @@ Restart the Kernel: Kernel -> Restart.
 
 ### Markdown Tips:
 Headers: Use # for headers.
+
 Lists: Use * or — for bullet points, and 1. for numbered lists.
 Code Blocks: Indent code with four spaces or use triple backticks.
 Links: Text for hyperlinks.
 
 -----------------------------------------------------------------------------------------
-Command Mode (press Esc to enable)
+### Command Mode (press Esc to enable)
 
 Enter: Switch to Edit mode
 
