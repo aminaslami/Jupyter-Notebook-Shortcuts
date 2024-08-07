@@ -98,6 +98,7 @@ R: Change the cell to raw
 5: Change the cell to heading 5
 
 6: Change the cell to heading 6
+
 A: Insert cell above
 B: Insert cell below
 X: Cut selected cell
