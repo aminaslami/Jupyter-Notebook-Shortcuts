@@ -107,6 +107,7 @@ B: Insert cell below
 X: Cut selected cell
 
 C: Copy selected cell
+
 Shift + V: Paste cell above
 V: Paste cell below
 D, D: Delete selected cell
