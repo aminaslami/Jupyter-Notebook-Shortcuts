@@ -113,6 +113,7 @@ Shift + V: Paste cell above
 V: Paste cell below
 
 D, D: Delete selected cell
+
 Z: Undo cell deletion
 Shift + M: Merge selected cells, or current cell with cell below if only one cell is selected
 
