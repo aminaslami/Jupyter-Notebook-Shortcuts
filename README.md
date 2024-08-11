@@ -70,6 +70,7 @@ Headers: Use # for headers.
 Lists: Use * or — for bullet points, and 1. for numbered lists.
 
 Code Blocks: Indent code with four spaces or use triple backticks.
+
 Links: Text for hyperlinks.
 
 -----------------------------------------------------------------------------------------
