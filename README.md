@@ -1,6 +1,6 @@
 # Jupyter-Notebook-Shortcuts
 Source: https://medium.com/@aminaslami/tips-and-shortcuts-to-enhance-your-productivity-while-using-jupyter-notebook-e14057260046
-### Tips and Shortcuts to Enhance your Productivity While using Jupyter Notebook
+## Tips and Shortcuts to Enhance your Productivity While using Jupyter Notebook
 
 
 Jupyter Notebook is a powerful tool for interactive computing, data analysis, and visualization. Here are some tips and shortcuts to enhance your productivity while using Jupyter Notebook:
