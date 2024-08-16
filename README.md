@@ -122,7 +122,7 @@ Z: Undo cell deletion
 
 Shift + M: Merge selected cells, or current cell with cell below if only one cell is selected
 
-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 Thanks:
 
 Other useful link: https://digitalhumanities.hkust.edu.hk/tutorials/jupyter-notebook-tips-and-shortcuts/#:~:text=To%20add%20new%20cell%2C%20press,button%20on%20the%20menu%20bar.&text=(3)%20Use%20the%20following%20shortcuts%3A&text=Press%20a%20%3A%20Insert%20a%20cell%20above%20the%20selected%20cell&text=Press%20b%20%3A%20Insert%20a%20cell%20below%20the%20selected%20cell
