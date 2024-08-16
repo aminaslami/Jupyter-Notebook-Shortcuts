@@ -74,7 +74,7 @@ Code Blocks: Indent code with four spaces or use triple backticks.
 
 Links: Text for hyperlinks.
 
---------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 ### Command Mode (press Esc to enable)
 
 Enter: Switch to Edit mode
