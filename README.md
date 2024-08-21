@@ -6,7 +6,9 @@ Source: https://medium.com/@aminaslami/tips-and-shortcuts-to-enhance-your-produc
 Jupyter Notebook is a powerful tool for interactive computing, data analysis, and visualization. Here are some tips and shortcuts to enhance your productivity while using Jupyter Notebook:
 
 --------------------------------------------------------------------------------------------
+Hello This is Mehmet
 --------------------------------------------------------------------------------------------
+
 ### Navigation Shortcuts:
 Esc + H: Display keyboard shortcuts.
 
