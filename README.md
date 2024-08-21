@@ -7,6 +7,7 @@ Jupyter Notebook is a powerful tool for interactive computing, data analysis, an
 
 --------------------------------------------------------------------------------------------
 Hello This is Mehmet
+
 --------------------------------------------------------------------------------------------
 
 ### Navigation Shortcuts:
